@@ -1,2 +1,2 @@
 # Generic_Gradient_Descent
-This code can be applied to perform gradient descent on any dataset having N features
+Performed generic gradient descent and feature scaling on the Boston dataset available on scikit learn. This code can be used to apply gradient descent on any dataset.
